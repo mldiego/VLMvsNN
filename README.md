@@ -2,16 +2,16 @@
 
 One needs Ollama and python 3.10 to run the notebooks
 
-Download ollama and run ```ollama serve```.
+Download ollama and run ```ollama serve```
 
-Then install oython libraries:
+Then install python libraries:
 ```
 pip install ollama
 pip install notebook
 ```
 
 
-Only open source modes provided by Ollama are tesed for now. 
+Only open source modes provided by Ollama are tested for now. 
 
 Results are not great.
 
@@ -27,7 +27,7 @@ Ubuntu 20.04.6 LTS
 ```
 
 
-The models run are:
+The models evaluated are:
 ```
 llava-llama3 (8b)
 llava        (7b)
