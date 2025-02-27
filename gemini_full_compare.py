@@ -82,9 +82,11 @@ def get_vlm_output_long_expression(model_str, num_operands, num_samples):
 
     results_file = os.path.join(results_fp, f'results_{model_str}.txt')
 
+    print(samples)
     for sample_num, (sample_fp, true_expression, true_solution) in enumerate(samples):
-        if sample_num > num_samples: # only first 50 samples
-            continue
+        print([sample_num, sample_fp, true_expression, true_solution])
+        if sample_num > num_samples: # only first N samples
+            break
         os.makedirs(os.path.dirname(results_file), exist_ok=True)
         with open(results_file, 'a') as f:
             res, time_taken = vlm_sequence(model_str, sample_fp)
@@ -97,13 +99,12 @@ if __name__=="__main__":
 
     models = [
         "gemini-2.0-flash-lite",
+        "gemini-2.0-flash",
         "gemini-1.5-flash",
-        "gemini-1.5-pro"
     ]
 
     num_samples = 25
 
     for model in models:
-        # for num_operands in range(3, 11):
         for num_operands in range(3, 11):
             get_vlm_output_long_expression(model, num_operands, num_samples)

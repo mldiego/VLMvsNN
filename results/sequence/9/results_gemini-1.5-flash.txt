@@ -1,0 +1,156 @@
+#0 -> 5-3+3*2+4+9%9*6%3=5.111111111111111 | 3+7-2*6=1
+: 0.39512085914611816
+#1 -> 84%55+62%36+31%12-18-86%24=-4.2195671997755335 | I cannot access local files like the image sequence you provided.  Therefore, I cannot process the images and give you the solution.  To get the answer, you will need to provide the text contents of each image.
+: 0.6263432502746582
+#2 -> 548*863%981*583%520-673-511*229+104=-147259.81998745396 | 8+2*6-3=25
+: 0.421175479888916
+#3 -> 1919*8764%4766-9701*2236%4693%6658+3504-3231=272.558307950329 | I cannot access local files like the image files provided in your prompt.  Therefore, I cannot solve the arithmetic expression.  Please provide the text of the digits and operators contained within the images.
+: 0.6261272430419922
+#4 -> 30987+72855+70388*97218%36064-98949%98057*68553-54209=204969.35550355996 | I cannot access local files, including the image files you provided. Therefore, I cannot process the images to solve the arithmetic expression.  To get an answer, you will need to provide the text of the digits and operators extracted from the images.
+: 0.6257956027984619
+#5 -> 737973-186706-582235%272292%522031+925099+794100*224823-470193=386515006583.951 | 3+8-1*2=9
+: 0.4204862117767334
+#6 -> 5044906-9219400+2484252*4775745*5232309%6766878-2451788+3513191%3422448=-1823719.844321466 | 8+3-1*2=12
+: 0.4211843013763428
+#7 -> 80009296-99224791+24872074%78208034%11250453%13625274%32569262%63552705%48578141=4.692501118450553e-39 | 3+2-1*6=11
+: 0.42056918144226074
+#8 -> 806808840*285508435%349104790+430743968*742767250*981298461*935133340*919063022%658206799=1.0379262734242587e+36 | I cannot access local files like the image sequence you provided. Therefore, I'm unable to process the image data and provide the requested arithmetic expression and solution.
+: 0.5234498977661133
+#9 -> 6*2-5-2-8%6-6%1-2=-8.5 | I cannot access local files like the image sequence you provided.  Therefore, I cannot process the images and give you the solution.  To get the answer, you will need to provide the text contents of each image.
+: 0.6260974407196045
+#10 -> 85-95-24-73%36+38-51*25%66=-6.050084175084175 | 8+2-3*6/2+1=11
+: 0.42089319229125977
+#11 -> 160+269-168%213*716-562+907*463%235=2408.2937368894213 | I cannot access local files, including the image files provided.  Therefore, I cannot solve the arithmetic expression.  To get an answer, you will need to provide the text values of the digits and operators contained within the images.
+: 0.627586841583252
+#12 -> 9744%9004*6816+5616%3811*6456%2992+9905*8678=86019425.84058155 | 3+8-2*6/3=13
+: 0.42055606842041016
+#13 -> 36347+34910+96073-47418-76137%13622%34164-23512-24976=-48487.99990593749 | I cannot process image files.  I need the text values from the images to solve the arithmetic expression.  Please provide the digit or operator contained within each image.
+: 0.5256919860839844
+#14 -> 164176%920046*208017*308440*824216-218732-443853*145013%145748=9388906759770744.0 | I cannot process image files.  I need the text contents of the images to solve this problem. Please provide the digit or operator in each image.
+: 0.6260998249053955
+#15 -> 8924334-5045836+9790101%6936369+7385527%1096574%5213554%4921342%2829302=9.277841144715644e-20 | 3+8-1*7=0
+: 0.4204864501953125
+#16 -> 43130665-80932473+79822189+25001130-88283715*90995931%15373114-71861685*69257275=-1.3693277313523148e+16 | 3+8-1*2=9
+: 0.4205758571624756
+#17 -> 889485693+592734786%729127208*649968680-114543117*660003509-798486196+144813797-849189973=7.964647789931356e+17 | I cannot access local files, so I cannot process the image sequence provided.  To get the solution, you will need to provide the text contents of each image.
+: 0.5233149528503418
+#18 -> 7%1%6-3*4-5+6*7+5=-39.33333333333333 | I cannot access local files like the image files provided in your prompt. Therefore, I'm unable to process the images and provide the requested arithmetic expression and solution.
+: 0.5241110324859619
+#19 -> 54-93%62-25+65-97-36-16+81=-28.629032258064512 | 3+8-1=10
+: 0.42127323150634766
+#20 -> 611*741*440*535-138+127-935-620%664=160508409.38855422 | I cannot process image files.  I need the text values of the digits and operators from the images to solve the arithmetic expression.
+: 0.48920702934265137
+#21 -> 1981-1265+2025-1423+1543*5421+2667+1577%7701=2014.5078561225814 | I cannot process image files.  I need the text values from the images to solve the arithmetic expression.  Please provide the digits and operators contained in each image.
+: 0.5577259063720703
+#22 -> 11561*41779+13615%95396%67022-36712-40586*23381+17846=-1807284925.6318827 | I cannot access local files like image files, so I cannot process the image sequence provided.  Therefore, I cannot provide the requested output.
+: 0.523120641708374
+#23 -> 550160-764284*581591+210497-405796*474105-341250*311801-562633=-18409235154641762024098 | I cannot access local files like image files on your computer.  Therefore, I cannot process the provided image paths to solve the arithmetic expression.  To get an answer, you will need to provide the digits and operators found in those images.
+: 0.6025681495666504
+#24 -> 4660096%7293147-7389141*8561445+7678386%4464061-4072179%1122705*6396984=-103948479.36019135 | 3+8-1*6=13
+: 0.3420109748840332
+#25 -> 46852888-30739699-25168438+61848350*27537851%75547207+90861661%65286093%53758138=3.137210123643144e-08 | I cannot access local files (like the image files provided in your example). Therefore, I cannot process the image sequence and provide the requested output.  To get the answer, you will need to provide the digit or operand represented by each image file.
+: 0.7305335998535156
+#0 -> 5-3+3*2+4+9%9*6%3=5.111111111111111 | 3+8-2*6+4/2=13
+: 0.42119717597961426
+#1 -> 84%55+62%36+31%12-18-86%24=-4.2195671997755335 | 7+2*9-6=23
+: 0.4234306812286377
+#2 -> 548*863%981*583%520-673-511*229+104=-147259.81998745396 | 8+2-1*6=12
+: 0.42298245429992676
+#3 -> 1919*8764%4766-9701*2236%4693%6658+3504-3231=272.558307950329 | I cannot process image files.  I need the text contents of the images to solve the arithmetic expression.  Please provide the text from each image.
+: 0.5234262943267822
+#4 -> 30987+72855+70388*97218%36064-98949%98057*68553-54209=204969.35550355996 | I cannot access local files like image files, therefore I cannot solve this problem.  I need the image data to be included in the prompt as text.
+: 0.4874305725097656
+#5 -> 737973-186706-582235%272292%522031+925099+794100*224823-470193=386515006583.951 | 3+8-1*7+3=12
+: 0.456895112991333
+#6 -> 5044906-9219400+2484252*4775745*5232309%6766878-2451788+3513191%3422448=-1823719.844321466 | 3+8-1*2=11
+: 0.42116737365722656
+#7 -> 80009296-99224791+24872074%78208034%11250453%13625274%32569262%63552705%48578141=4.692501118450553e-39 | 3+6-2*8= -1
+: 0.4237525463104248
+#8 -> 806808840*285508435%349104790+430743968*742767250*981298461*935133340*919063022%658206799=1.0379262734242587e+36 | I cannot access local files like the image sequence you provided, so I'm unable to process the images and solve the arithmetic expression.  To get an answer, you will need to provide the digits and operators contained within each image.
+: 0.6263489723205566
+#9 -> 6*2-5-2-8%6-6%1-2=-8.5 | I cannot process image files.  I need the text values from the images to solve the arithmetic expression.  Please provide the text content of each image.
+: 0.5246379375457764
+#10 -> 85-95-24-73%36+38-51*25%66=-6.050084175084175 | 3+8-2*6/3=11
+: 0.4211149215698242
+#11 -> 160+269-168%213*716-562+907*463%235=2408.2937368894213 | I cannot access local files, so I am unable to process the image file paths provided.  Please provide the text contents of the images.
+: 0.5235092639923096
+#12 -> 9744%9004*6816+5616%3811*6456%2992+9905*8678=86019425.84058155 | 3+8-1*2+7=16
+: 0.42244672775268555
+#13 -> 36347+34910+96073-47418-76137%13622%34164-23512-24976=-48487.99990593749 | I cannot process image files.  Therefore, I cannot provide the requested output.  I need the digit and operator values extracted from the images to perform the calculation.
+: 0.49252939224243164
+#14 -> 164176%920046*208017*308440*824216-218732-443853*145013%145748=9388906759770744.0 | 3+8-7*2+9-1/1+5-6+4-2*3+1=1
+: 0.5543777942657471
+#15 -> 8924334-5045836+9790101%6936369+7385527%1096574%5213554%4921342%2829302=9.277841144715644e-20 | 3+8-1*2=13
+: 0.4208967685699463
+#16 -> 43130665-80932473+79822189+25001130-88283715*90995931%15373114-71861685*69257275=-1.3693277313523148e+16 | 3+8-2*6=1
+: 0.4210827350616455
+#17 -> 889485693+592734786%729127208*649968680-114543117*660003509-798486196+144813797-849189973=7.964647789931356e+17 | I cannot process image files.  I need the text contents of the images to solve the arithmetic expression. Please provide the digits and operators from each image.
+: 0.5240218639373779
+#18 -> 7%1%6-3*4-5+6*7+5=-39.33333333333333 | I cannot access local files, including the image files provided. Therefore, I cannot process the image sequence and provide the requested output.
+: 0.5237352848052979
+#19 -> 54-93%62-25+65-97-36-16+81=-28.629032258064512 | 3+5-2*6=10
+: 0.4206206798553467
+#20 -> 611*741*440*535-138+127-935-620%664=160508409.38855422 | I cannot access local files, including image files, so I cannot process the provided image paths to solve the arithmetic expression.  Please provide the text contents of the images.
+: 0.5257480144500732
+#21 -> 1981-1265+2025-1423+1543*5421+2667+1577%7701=2014.5078561225814 | I cannot process image files.  I need the text contents of the images to solve this problem.  Please provide the digit or operator represented by each image file.
+: 0.5288619995117188
+#22 -> 11561*41779+13615%95396%67022-36712-40586*23381+17846=-1807284925.6318827 | I cannot access local files, including image files, so I cannot solve this problem.  I need the contents of the images to provide an answer.
+: 0.5161490440368652
+#23 -> 550160-764284*581591+210497-405796*474105-341250*311801-562633=-18409235154641762024098 | I cannot access local files like the image sequence you provided.  Therefore, I cannot solve the arithmetic expression.  I need the actual digit and operator values from the images to provide the answer in the requested format.
+: 0.6261308193206787
+#24 -> 4660096%7293147-7389141*8561445+7678386%4464061-4072179%1122705*6396984=-103948479.36019135 | 3+8-6*1=5
+: 0.4209249019622803
+#25 -> 46852888-30739699-25168438+61848350*27537851%75547207+90861661%65286093%53758138=3.137210123643144e-08 | I cannot access local files, including the image files you provided.  Therefore, I cannot process the images to determine the arithmetic expression and solve it.  To get an answer, you will need to provide the text that is contained within each image.
+: 0.6301231384277344
+#0 -> 5-3+3*2+4+9%9*6%3=5.111111111111111 | I cannot process image files.  I need the text content of the images to solve the arithmetic expression.  Please provide the digits and operators from each image.
+: 0.5695633888244629
+#1 -> 84%55+62%36+31%12-18-86%24=-4.2195671997755335 | I cannot access local files like the image files provided in your prompt.  Therefore, I cannot determine the arithmetic expression and solve it.  To get an answer, please provide the text contents of each image.
+: 0.8681056499481201
+#2 -> 548*863%981*583%520-673-511*229+104=-147259.81998745396 | 7+2*6-3=17
+: 0.44234180450439453
+#3 -> 1919*8764%4766-9701*2236%4693%6658+3504-3231=272.558307950329 | I cannot access local files, including the image files provided. Therefore, I cannot process the image sequence and provide the requested output.
+: 0.5238335132598877
+#4 -> 30987+72855+70388*97218%36064-98949%98057*68553-54209=204969.35550355996 | I cannot access local files, including the image files provided in your prompt. Therefore, I cannot solve the arithmetic expression.  To get an answer, you will need to provide the text that is contained within each image.
+: 0.6266157627105713
+#5 -> 737973-186706-582235%272292%522031+925099+794100*224823-470193=386515006583.951 | 3+8-7*1=4
+: 0.33814263343811035
+#6 -> 5044906-9219400+2484252*4775745*5232309%6766878-2451788+3513191%3422448=-1823719.844321466 | I cannot access local files, including image files, so I cannot process the provided image sequence.  To get the answer, you will need to provide the text values of the digits and operators in the images.
+: 0.7130880355834961
+#7 -> 80009296-99224791+24872074%78208034%11250453%13625274%32569262%63552705%48578141=4.692501118450553e-39 | 3+1-2*6+1= -7
+: 0.42376255989074707
+#8 -> 806808840*285508435%349104790+430743968*742767250*981298461*935133340*919063022%658206799=1.0379262734242587e+36 | I cannot process image files.  Therefore, I cannot provide a solution to this problem.  I need the text content of each image to construct and solve the arithmetic expression.
+: 0.5234718322753906
+#9 -> 6*2-5-2-8%6-6%1-2=-8.5 | I cannot access local files, including image files, so I cannot solve this problem.  I need the contents of the images to construct and solve the arithmetic expression.
+: 0.5657355785369873
+#10 -> 85-95-24-73%36+38-51*25%66=-6.050084175084175 | 3+8-2*6/3=11
+: 0.37934064865112305
+#11 -> 160+269-168%213*716-562+907*463%235=2408.2937368894213 | I cannot process image files.  I need the text contents of the images to solve the arithmetic expression.  Please provide the digit or operator contained in each image.
+: 0.5250365734100342
+#12 -> 9744%9004*6816+5616%3811*6456%2992+9905*8678=86019425.84058155 | 3+8-1*6/3+2=16
+: 0.42606258392333984
+#13 -> 36347+34910+96073-47418-76137%13622%34164-23512-24976=-48487.99990593749 | I cannot process image files.  Therefore, I cannot provide the requested solution.  To get an answer, you will need to provide the text content of each image file.
+: 0.529555082321167
+#14 -> 164176%920046*208017*308440*824216-218732-443853*145013%145748=9388906759770744.0 | I cannot access local files like image files, so I cannot process the image sequence to solve the arithmetic expression.  Please provide the text content of each image.
+: 0.5203633308410645
+#15 -> 8924334-5045836+9790101%6936369+7385527%1096574%5213554%4921342%2829302=9.277841144715644e-20 | I cannot process image files.  Therefore, I cannot answer your question.
+: 0.420440673828125
+#16 -> 43130665-80932473+79822189+25001130-88283715*90995931%15373114-71861685*69257275=-1.3693277313523148e+16 | 3+8-1=10
+: 0.319962739944458
+#17 -> 889485693+592734786%729127208*649968680-114543117*660003509-798486196+144813797-849189973=7.964647789931356e+17 | I cannot access local files, including image files, so I cannot provide a solution.  To get an answer, you will need to provide the text contents of each image.
+: 0.523629903793335
+#18 -> 7%1%6-3*4-5+6*7+5=-39.33333333333333 | I cannot access local files like the image files provided in your request.  Therefore, I cannot process the images and provide the solution to the arithmetic expression.
+: 1.0399298667907715
+#19 -> 54-93%62-25+65-97-36-16+81=-28.629032258064512 | 3+1-2*6+4/2= -4
+: 0.4213070869445801
+#20 -> 611*741*440*535-138+127-935-620%664=160508409.38855422 | I cannot access local files, including image files, so I cannot provide a solution.  I need the text content of each image to process this request.
+: 0.49384355545043945
+#21 -> 1981-1265+2025-1423+1543*5421+2667+1577%7701=2014.5078561225814 | I cannot access local files, including image files, so I cannot process the provided image paths.  Therefore, I cannot create and solve the arithmetic expression.  Please provide the digits and operators extracted from the images.
+: 0.5542285442352295
+#22 -> 11561*41779+13615%95396%67022-36712-40586*23381+17846=-1807284925.6318827 | I cannot access local files, including image files, so I cannot provide a solution.  To get an answer, you will need to provide the text contents of each image file.
+: 0.5243241786956787
+#23 -> 550160-764284*581591+210497-405796*474105-341250*311801-562633=-18409235154641762024098 | I cannot access local files, including the image files provided in your request. Therefore, I cannot process the images and provide the requested output.
+: 0.5233259201049805
+#24 -> 4660096%7293147-7389141*8561445+7678386%4464061-4072179%1122705*6396984=-103948479.36019135 | I cannot process image files.  I need the text content of the images to solve the arithmetic expression.  Please provide the digits and operators from each image.
+: 0.5003700256347656
+#25 -> 46852888-30739699-25168438+61848350*27537851%75547207+90861661%65286093%53758138=3.137210123643144e-08 | I cannot access local files, including the image files provided in your sequence.  Therefore, I cannot process the images and create the arithmetic expression.  Please provide the digit and operator values directly from the images.
+: 0.6515984535217285
